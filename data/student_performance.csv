@@ -1,0 +1,21 @@
+gender,parental_level_of_education,lunch,test_preparation_course,math_score,reading_score,writing_score
+female,bachelor's degree,standard,none,72,72,74
+female,some college,standard,completed,69,90,88
+female,master's degree,standard,none,90,95,93
+male,associate's degree,free/reduced,none,47,57,44
+male,some college,standard,none,76,78,75
+female,associate's degree,free/reduced,none,71,83,78
+female,some college,standard,completed,88,95,92
+male,some college,free/reduced,none,40,43,39
+male,high school,free/reduced,completed,64,64,67
+female,high school,free/reduced,none,38,60,50
+male,associate's degree,standard,none,58,54,52
+male,associate's degree,standard,completed,40,52,43
+female,high school,standard,none,65,81,73
+male,some college,standard,none,78,72,70
+female,master's degree,standard,completed,50,53,58
+female,associate's degree,standard,none,69,75,78
+male,high school,standard,none,88,89,86
+female,some high school,free/reduced,none,18,32,28
+male,master's degree,free/reduced,completed,46,42,46
+female,some college,standard,completed,54,58,61
