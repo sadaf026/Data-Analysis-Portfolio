@@ -1,57 +1,65 @@
-Data Analysis Portfolio
-=======================
+# Multi-Domain Data Analysis Project
 
-Professional multi-domain data analysis portfolio containing five complete projects across different industries.
+## Overview
 
-------------------------------------------------------------
+This project demonstrates exploratory data analysis across multiple domains using Python. 
+The goal is to extract meaningful insights from different types of datasets through visualization and statistical analysis.
 
-Domains Covered
----------------
+## Domains Covered
 
 1. Retail Sales Analysis
-2. Real Estate Pricing Analysis
-3. Education Performance Analysis
+2. Real Estate Market Analysis
+3. Financial Market Analysis
 4. Weather Data Analysis
-5. Finance Market Analysis
+5. Education Data Analysis
 
-Each project includes:
-
-- Data cleaning and preprocessing using pandas
-- Exploratory Data Analysis (EDA)
-- At least three different visualizations
-- Correlation analysis
-- Business insights and strategic conclusions
-
-------------------------------------------------------------
-
-Project Structure
------------------
-
-Retail_Analysis/
-RealEstate_Analysis/
-Education_Analysis/
-Weather_Analysis/
-Finance_Analysis/
-data/
-
-------------------------------------------------------------
-
-Tools and Technologies
-----------------------
+## Tools and Technologies
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Google Colab
+- Jupyter Notebook
 
-------------------------------------------------------------
+## Project Structure
 
-How to Run
-----------
+- Notebooks/ → contains analysis notebooks
+- datasets/ → raw datasets used in analysis
 
-1. Clone the repository
-2. Install dependencies from requirements.txt
-3. Open individual project notebooks
-4. Run all cells
+
+  
+## Key Analysis Techniques
+
+- Data cleaning
+- Exploratory data analysis
+- Correlation analysis
+- Data visualization
+- Trend identification
+
+## Insights
+
+The analysis across different domains highlights patterns in sales performance, housing price distributions, financial trends, climate patterns, and education statistics.
+
+
+## Notebooks
+
+### Retail Sales Analysis
+Explores sales trends, product performance, and revenue patterns.
+
+### Real Estate Analysis
+Analyzes housing prices and property characteristics.
+
+### Financial Market Analysis
+Studies stock price movements and financial indicators.
+
+### Weather Data Analysis
+Examines temperature and precipitation patterns.
+
+### Education Data Analysis
+Analyzes student performance and education metrics.
+
+## Author
+
+Sadaf  
+Data Analytics Project
