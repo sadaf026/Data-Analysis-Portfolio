@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-orange)
+![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-purple)
+
+
 # Multi-Domain Data Analysis Project
 
 ## Overview
