@@ -6,6 +6,9 @@
 
 # Multi-Domain Data Analysis Project
 
+
+![Project Cover](project_cover.png)
+
 ## Overview
 
 This project demonstrates exploratory data analysis across multiple domains using Python. 
@@ -32,6 +35,39 @@ The goal is to extract meaningful insights from different types of datasets thro
 
 - Notebooks/ → contains analysis notebooks
 - datasets/ → raw datasets used in analysis
+
+
+  ## Projects
+
+### Retail Sales Analysis
+
+Notebook: [Retail Sales Analysis Notebook](Retail_Analysis/retail_sales_analysis.ipynb)
+
+Description: Analysis of supermarket retail sales to identify revenue trends, product performance, and customer behavior patterns using Python and Pandas.
+
+### Real Estate Market Analysis
+
+Notebook: [Real Estate Analysis Notebook](RealEstate_Analysis/real_estate_analysis.ipynb)
+
+Description: Analysis of real estate data to understand housing price trends, location impact on prices, and property market patterns.
+
+### Financial Market Analysis
+
+Notebook: [Financial Market Analysis Notebook](Finance_Analysis/financial_market_analysis.ipynb)
+
+Description: Analysis of financial market datasets to explore stock behavior, price fluctuations, and overall market trends.
+
+### Weather Data Analysis
+
+Notebook: [Weather Data Analysis Notebook](Weather_Analysis/weather_data_analysis.ipynb)
+
+Description: Analysis of weather datasets to study temperature trends, rainfall patterns, and seasonal variations.
+
+### Education Data Analysis
+
+Notebook: [Education Data Analysis Notebook](Education_Analysis/education_data_analysis.ipynb)
+
+Description: Analysis of student performance and education data to identify factors affecting academic results.
 
 
   
@@ -64,6 +100,9 @@ Examines temperature and precipitation patterns.
 
 ### Education Data Analysis
 Analyzes student performance and education metrics.
+
+
+
 
 ## Author
 
