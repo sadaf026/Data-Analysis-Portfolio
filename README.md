@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9f1507a5-14c4-4b7b-84c6-78877ff3f154" />![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-orange)
 ![Seaborn](https://img.shields.io/badge/Visualization-Seaborn-purple)
